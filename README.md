@@ -1,1 +1,2 @@
-# JavaScript-Aprofundando-em-MVC-padrao-Proxy-e-Factory
+# JavaScript: Aprofundando em MVC, padrão Proxy e Factory
+Curso Alura
